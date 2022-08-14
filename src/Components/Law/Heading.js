@@ -12,7 +12,7 @@ function Heading() {
   //   };
   return (
     <div className="heading">
-      <h1> Heading </h1>
+      <h1 className="text-3xl font-bold underline">Heading</h1>
     </div>
   );
 }
