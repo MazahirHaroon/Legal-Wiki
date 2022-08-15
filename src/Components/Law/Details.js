@@ -1,20 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
-function Heading() {
-  //   const [movies, setMovies] = useState([]);
-  //   useEffect(() => {
-  //     fetchData();
-  //   }, []);
-
-  //   const fetchData = async () => {
-  //     const response = await axios.get(fetchUrl);
-  //     setMovies(response.data.results);
-  //   };
-  return (
-    <div className="details">
-      <h1> Details </h1>
-    </div>
-  );
+function Details() {
+  return <div></div>;
 }
 
-export default Heading;
+export default Details;
