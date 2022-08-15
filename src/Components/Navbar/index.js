@@ -34,7 +34,7 @@ function Navbar() {
           </svg>
         </button>
         <div class="hidden w-full md:block md:w-auto" id="navbar-default">
-          <ul className="flex flex-col p-2 mt-4 bg-gray-300 rounded-lg border border-gray-100 text-gray-700 text-sm md:text-base md:flex-row md:space-x-8 md:mt-0 text-sm md:text-xl md:font-medium md:border-0">
+          <ul className="flex flex-col p-2 mt-4 bg-gray-300 rounded-lg border border-gray-100 text-gray-700 text-sm md:text-base md:flex-row md:space-x-6 md:mt-0 text-sm md:text-xl md:font-medium md:border-0">
             <li className="text-center self-center font-extrabold">
               <a
                 href="#"
