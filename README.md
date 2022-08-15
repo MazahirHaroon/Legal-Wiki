@@ -1,4 +1,4 @@
-# LawPedia
+# Legal Wiki
 - A web app to help provide easy access and details of various laws in India.
 - Initial Prototype: 
 
